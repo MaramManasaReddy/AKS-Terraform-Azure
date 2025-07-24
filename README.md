@@ -88,7 +88,7 @@ node_count          = 2
 ## 👤 Author
 
 Maram Manasa Reddy  
-🔗 [LinkedIn](https://www.linkedin.com/in/marammanasareddy)
+🔗 [LinkedIn](https://www.linkedin.com/in/manasa-maram-499245225/)
 
 ---
 
